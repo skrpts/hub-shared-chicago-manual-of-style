@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "d03d47c9-1d34-4a42-9e17-0979bec17093"
+name: "chicago-manual-of-style"
+display_name: "Chicago Manual of Style"
+description: "Citation and formatting guidelines per the Chicago Manual of Style, 17th edition"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-chicago-manual-of-style"
+category: "shared"
+tags:
+  - "shared"
+  - "source"
+contents:
+  skills: 0
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 1
+  documents: 0
+  assets: 0
+  total: 1
