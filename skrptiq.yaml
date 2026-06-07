@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "d03d47c9-1d34-4a42-9e17-0979bec17093"
+id: "ac381619-0b5f-4525-8fa3-0a8790bc4f9e"
 name: "chicago-manual-of-style"
 display_name: "Chicago Manual of Style"
 description: "Citation and formatting guidelines per the Chicago Manual of Style, 17th edition"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
