@@ -3,7 +3,7 @@ id: "ac381619-0b5f-4525-8fa3-0a8790bc4f9e"
 name: "chicago-manual-of-style"
 display_name: "Chicago Manual of Style"
 description: "Citation and formatting guidelines per the Chicago Manual of Style, 17th edition"
-version: "1.0.1"
+version: "1.0.2"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -14,6 +14,8 @@ category: "shared"
 tags:
   - "shared"
   - "source"
+dependencies: []
+
 contents:
   skills: 0
   prompts: 0
